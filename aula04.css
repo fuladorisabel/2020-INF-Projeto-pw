@@ -1,0 +1,31 @@
+.teste #logo h1{
+
+}
+*{
+  margin:  5px 3px 5px 3px;
+  padding: 0px;
+  font-family: 'Dancing Script', serif;
+}
+
+body {
+  background-color: #dadada;
+}
+.site{
+  background-color: #ffffff;
+  width: 800px;
+  margin: 0px auto;
+  padding: 50px;
+
+}
+.site .conteudo{
+  background-color: #ffffff;
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  border: 5px #adadad solid;
+  font-family: 'Dancing Script', serif;
+}
+.site .topo,  .rodape{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
