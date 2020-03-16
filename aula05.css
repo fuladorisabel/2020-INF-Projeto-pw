@@ -1,0 +1,87 @@
+.teste #logo h1{
+
+}
+*{
+  margin:  5px 3px 5px 3px;
+  padding: 0px;
+  font-family: 'Dancing Script', serif;
+}
+
+body {
+  background-image: url('https://i1.wp.com/socientifica.com.br/wp-content/uploads/2019/05/image_7150_1e-Hubble-Legacy-Field.jpg?resize=750%2C536&ssl=1');
+}
+.site{
+  background-color: #ffffff;
+  width: 800px;
+  margin: 0px auto;
+  padding: 50px;
+
+}
+.site .conteudo{
+  background-color: #ffffff;
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  border: 5px #adadad solid;
+  font-family: 'Dancing Script', serif;
+}
+.site .topo,  .rodape{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+.botao{
+  font-size: 20px;
+  text-decoration: none;
+ color:  #000000;
+ padding: 10px 20px;
+ display: inline-block;
+ border-radius: 15px;
+}
+.botao-azul{
+  background-color: 	 #4da6ff;
+  border: solid 1px #3333ff;
+}
+.botao-azul:hover{
+  background-color: #e6f2ff;
+}
+.botao-verde{
+  background-color: #00ff00;
+  border: solid 1px #00e600;
+}
+.botao-verde:hover{
+  background-color: #e6f2ff;
+}
+.botao-vermelho{
+  background-color: #ff0000;
+  border: solid 1px #e60000;
+}
+.botao-vermelho:hover{
+  background-color: #e6f2ff;
+
+}
+.menu {
+  background-color: #dadada;
+  border-radius: 15px;
+
+}
+.menu ul {
+  list-style-type: none;
+
+}
+.menu ul li{
+  display: inline-block;
+}
+.menu ul li a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+
+}
+.menu a:hover {
+  background-color: #e6f2ff;
+}
+.noticias h2 {
+  padding: 5px;
+  margin-top: 20px;
+  border-bottom: solid 1px #dadada;
+}
